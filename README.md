@@ -11,7 +11,7 @@ $ php artisan migrate
 
 
 ```
-## J'ai permeté seulement a 5 inscriptions comme vous l'avez demandé
+## J'ai permeté seulement a 5 inscriptions comme vous l'avez demander
 
 ## n'oublier pas de modifier le fichier .env changer DB_CONNECTION=pgsql et metter votre information de postgres
 
