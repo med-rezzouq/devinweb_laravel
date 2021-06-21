@@ -39,7 +39,7 @@ class LoginController extends Controller
     }
 
 
-    public function showMemberLoginForm()
+    public function showLoginForm()
     {
         return view('frontoffice.login');
     }
